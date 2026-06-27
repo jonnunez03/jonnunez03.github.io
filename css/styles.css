@@ -597,6 +597,13 @@ p {
     justify-content: center;
   }
 
+  .contact-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
   .two-column {
     align-items: center;
   }
