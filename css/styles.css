@@ -622,3 +622,8 @@ p {
     flex-wrap: wrap;
   }
 }
+
+.site-nav a.active-link {
+  border-bottom: 3px solid var(--navy);
+  color: var(--navy);
+}
